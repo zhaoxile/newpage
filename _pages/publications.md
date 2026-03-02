@@ -215,13 +215,6 @@ author_profile: true
    **_CVPR_** [[Pytorch Code]](https://github.com/YisiLuo/HLRTF)
 
 <div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
-  <img src="/images/uconnet.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-</div>
-- UConNet: Unsupervised Controllable Network for Image and Video Deraining<br>
-  Jun-Hao Zhuang, Yisi Luo, **Xi-Le Zhao**, Tai-Xiang Jiang, Bichuan Guo<br>
-   **_ACM International Conference on Multimedia_**
-
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
   <img src="/images/nttnn.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
 </div>
 - Nonlinear Transform Based Tensor Nuclear Norm for Low-Rank Tensor Completion<br>
@@ -343,13 +336,6 @@ author_profile: true
 - Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image<br>
   Yu-Bang Zheng, Ting-Zhu Huang, **Xi-Le Zhao**, Yong Chen, Wei He<br>
    **_IEEE Trans. Geosci. Remote Sens._** [[MATLAB Code]](https://yubangzheng.github.io/codes/code_LRTFDFR.zip)
-
-<div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
-  <img src="/images/radio.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-</div>
-- Spectrum Cartography via Coupled Block-Term Tensor Decomposition<br>
-  Guoyong Zhang, Xiao Fu, Jun Wang, **Xi-Le Zhao**, Mingyi Hong<br>
-   **_IEEE Trans. Signal Process._**
 
 <div style="width: 350px; height: 200px; display: inline-flex; align-items: center; justify-content: center; vertical-align: top; margin-right: 10px; border: 1px solid #eee;">
   <img src="/images/pstnn.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
