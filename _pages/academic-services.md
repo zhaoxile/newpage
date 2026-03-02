@@ -20,7 +20,7 @@ author_profile: true  # 确保开启作者信息栏
 - Optik (Recent Trends of Math and Deep Modeling in Multi-Dimensional Image Recovery: Theory, Models, Algorithms, and Applications)
 - Remote Sensing (Knowledge-Driven and/or Model-driven and Data-driven Methods for Remote Sensing Image Processing) [[Open]](https://www.mdpi.com/journal/remotesensing/special_issues/483C37936H)
 - Sensor (Multi-Modality Sensing Data Analysis and Its Application in Image Processing and Vision) [[Open]](https://www.mdpi.com/journal/sensors/special_issues/M8X8580H09)
-- Computational Intelligence (Special Issue-Intelligent Remote Sensing Image Computing: Theory, Models, Algorithms, and  Applications)
+- Computational Intelligence (Intelligent Remote Sensing Image Computing: Theory, Models, Algorithms, and  Applications)
   
 ## Jury Member for PhD Thesis Defense
 - Skoltech, supervised by Professor Andrzej Cichocki
